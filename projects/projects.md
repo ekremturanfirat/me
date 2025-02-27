@@ -31,13 +31,20 @@ This is my project page. You can find the projects I have done here.
 - [Project Documents](https://github.com/ekremturanfirat/stepper-motor-easy-controller)
 
 ### ESP32 Based Laser CNC Motherboard, Robolink Teknoloji, June 2023 - August 2023
-- Stepper Motor Independent Control design was made. The PCB design made with EAGLE is based on a 2-layer board. The aim is to independently produce the pulse signal needed by the driver.
+- ESP32 Based Laser CNC motherboard design was done during the internship. PCB design made with Altium Circuit Studio is 4-layered and passive power protection circuits, USB to TTL, Stepper motor drivers etc. circuits were worked on.
 - Fetures
   - Size: 90.00*80.00 (mm)
   - Number of Layers: 4
   - MCU: ESP32-WROOM
+  - 4 Motor Driver
+  - Fan Output
 
 ### ESP32 Developing Board, Robolink Teknoloji, March 2022 - Jult 2022
 - ESP32 Development board was designed to determine the accuracy of the in-house design processes.
+- Features
+  - ESP32-WROOM
+  - PTC Fuse  
+  - USB TYPE-C
+  - CH340 USB to TTL
 - [Project Documents](https://github.com/mergenelk/ESP32_Developing_Board)
   
